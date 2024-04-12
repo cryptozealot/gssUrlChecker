@@ -1,10 +1,10 @@
-Build your own website uptime monitoring using scripts.google.com and google spreadsheets for free and get emails if your website is down or has errored out.
+Build your own website uptime monitoring using script.google.com and google spreadsheets for free and get emails if your website is down or has errored out.
 Poor man's google spreadsheet website monitoring powered by google.
 
 1. Make a spreadsheet with 2 sheets named URLs and Logs, create 3 columns on the URLs sheet like so:
 ![image](https://github.com/cryptozealot/gssUrlChecker/assets/34049724/5363ebca-c448-4311-8745-b7e81b0490fe)
 
-2. go to scripts.google.com and create a new project, paste in the code from Code.gs and edit the sheet IDs at the top and your email at the bottom.
+2. go to script.google.com and create a new project, paste in the code from Code.gs and edit the sheet IDs at the top and your email at the bottom.
 
 3. Add/Enable Gmail API to the project so that it can send you an email
 
@@ -16,3 +16,4 @@ Poor man's google spreadsheet website monitoring powered by google.
 7. Profit
 
 Credits to Ilyas at https://ilyasozkurt.medium.com/building-uptime-monitor-with-google-sheets-7dcf6fc1380b and Gemini for adding response codes and mail notification functionality.
+Quick and dirty copy pasta and use Gemini to update, no guarantees, WIP
