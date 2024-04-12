@@ -14,3 +14,5 @@ Poor man's google spreadsheet website monitoring powered by google.
 5. Check if table is getting populated.
 6. Add some wrong domain to verify notifactions are sent
 7. Profit
+
+Credits to Ilyas at https://ilyasozkurt.medium.com/building-uptime-monitor-with-google-sheets-7dcf6fc1380b and Gemini for adding response codes and mail notification functionality.
